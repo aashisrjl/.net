@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "DbadQX+kaQnJu480WTAUAKsPRjPIlA0BhyTH9AuW0do=",
+  "Source": "MyWebApi",
+  "BasePath": "_content/MyWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApi/wwwroot",
+      "Source": "MyWebApi",
+      "ContentRoot": "/home/aashis-rijal/Desktop/net _centric/MyWebApi/wwwroot/",
+      "BasePath": "_content/MyWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/aashis-rijal/Desktop/net _centric/MyWebApi/wwwroot/form.html",
+      "SourceId": "MyWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aashis-rijal/Desktop/net _centric/MyWebApi/wwwroot/",
+      "BasePath": "_content/MyWebApi",
+      "RelativePath": "form.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/form.html"
+    },
+    {
+      "Identity": "/home/aashis-rijal/Desktop/net _centric/MyWebApi/wwwroot/index.html",
+      "SourceId": "MyWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aashis-rijal/Desktop/net _centric/MyWebApi/wwwroot/",
+      "BasePath": "_content/MyWebApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

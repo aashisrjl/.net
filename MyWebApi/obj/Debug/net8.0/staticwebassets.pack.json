@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/aashis-rijal/Desktop/net _centric/MyWebApi/wwwroot/form.html",
+      "PackagePath": "staticwebassets/form.html"
+    },
+    {
+      "Id": "/home/aashis-rijal/Desktop/net _centric/MyWebApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyWebApi.props",
+      "PackagePath": "build\\MyWebApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyWebApi.props",
+      "PackagePath": "buildMultiTargeting\\MyWebApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyWebApi.props",
+      "PackagePath": "buildTransitive\\MyWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
