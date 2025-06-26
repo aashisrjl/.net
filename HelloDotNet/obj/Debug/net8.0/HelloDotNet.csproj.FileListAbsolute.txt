@@ -12,3 +12,4 @@
 /home/aashis-rijal/Desktop/net _centric/HelloDotNet/obj/Debug/net8.0/HelloDotNet.pdb
 /home/aashis-rijal/Desktop/net _centric/HelloDotNet/obj/Debug/net8.0/HelloDotNet.genruntimeconfig.cache
 /home/aashis-rijal/Desktop/net _centric/HelloDotNet/obj/Debug/net8.0/ref/HelloDotNet.dll
+/home/aashis-rijal/Desktop/net _centric/HelloDotNet/obj/Debug/net8.0/HelloDotNet.sourcelink.json
